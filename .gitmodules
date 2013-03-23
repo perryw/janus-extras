@@ -22,3 +22,7 @@
 	path = zencoding-vim
 	url = git://github.com/mattn/zencoding-vim.git
   ignore = dirty
+[submodule "vim-indexed-search"]
+	path = vim-indexed-search
+	url = git://github.com/henrik/vim-indexed-search.git
+  ignore = dirty
