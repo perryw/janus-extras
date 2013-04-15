@@ -26,3 +26,9 @@
 	path = vim-indexed-search
 	url = git://github.com/henrik/vim-indexed-search.git
   ignore = dirty
+[submodule "indent-java.vim"]
+	path = indent-java.vim
+	url = git://github.com/xuhdev/indent-java.vim.git
+[submodule "vim-slime"]
+	path = vim-slime
+	url = git://github.com/jpalardy/vim-slime.git
