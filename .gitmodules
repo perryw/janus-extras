@@ -32,3 +32,9 @@
 [submodule "vim-slime"]
 	path = vim-slime
 	url = git://github.com/jpalardy/vim-slime.git
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "CSScomb-for-Vim"]
+	path = CSScomb-for-Vim
+	url = https://github.com/miripiruni/CSScomb-for-Vim.git
