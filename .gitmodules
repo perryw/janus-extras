@@ -47,3 +47,6 @@
 [submodule "Superior-Haskell-Interaction-Mode-SHIM"]
 	path = Superior-Haskell-Interaction-Mode-SHIM
 	url = git@github.com:vim-scripts/Superior-Haskell-Interaction-Mode-SHIM.git
+[submodule "vimwiki-tasks"]
+	path = vimwiki-tasks
+	url = git@github.com:teranex/vimwiki-tasks.git
