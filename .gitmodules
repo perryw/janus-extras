@@ -50,3 +50,6 @@
 [submodule "vimwiki-tasks"]
 	path = vimwiki-tasks
 	url = git@github.com:teranex/vimwiki-tasks.git
+[submodule "tern_for_vim"]
+	path = tern_for_vim
+	url = https://github.com/marijnh/tern_for_vim.git
