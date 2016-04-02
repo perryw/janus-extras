@@ -26,12 +26,6 @@
 	path = vim-indexed-search
 	url = git://github.com/henrik/vim-indexed-search.git
   ignore = dirty
-[submodule "indent-java.vim"]
-	path = indent-java.vim
-	url = git://github.com/xuhdev/indent-java.vim.git
-[submodule "vim-slime"]
-	path = vim-slime
-	url = git://github.com/jpalardy/vim-slime.git
 [submodule "emmet-vim"]
 	path = emmet-vim
 	url = https://github.com/mattn/emmet-vim
@@ -50,9 +44,6 @@
 [submodule "vimwiki-tasks"]
 	path = vimwiki-tasks
 	url = git@github.com:teranex/vimwiki-tasks.git
-[submodule "tern_for_vim"]
-	path = tern_for_vim
-	url = https://github.com/marijnh/tern_for_vim.git
 [submodule "vim-cucumber"]
 	path = vim-cucumber
 	url = https://github.com/tpope/vim-cucumber.git
