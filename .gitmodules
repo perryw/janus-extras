@@ -47,3 +47,6 @@
 [submodule "vim-cucumber"]
 	path = vim-cucumber
 	url = https://github.com/tpope/vim-cucumber.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline
