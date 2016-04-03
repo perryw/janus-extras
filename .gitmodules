@@ -53,3 +53,4 @@
 [submodule "fzf.vim"]
 	path = fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
+  ignore = dirty
