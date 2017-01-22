@@ -54,3 +54,6 @@
 	path = fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
   ignore = dirty
+[submodule "yajs.vim"]
+	path = yajs.vim
+	url = https://github.com/othree/yajs.vim.git
