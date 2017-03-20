@@ -32,9 +32,6 @@
 [submodule "CSScomb-for-Vim"]
 	path = CSScomb-for-Vim
 	url = https://github.com/miripiruni/CSScomb-for-Vim.git
-[submodule "scss-syntax.vim"]
-	path = scss-syntax.vim
-	url = https://github.com/cakebaker/scss-syntax.vim
 [submodule "vimwiki"]
 	path = vimwiki
 	url = git@github.com:vimwiki/vimwiki.git
@@ -54,6 +51,3 @@
 	path = fzf.vim
 	url = https://github.com/junegunn/fzf.vim.git
   ignore = dirty
-[submodule "yajs.vim"]
-	path = yajs.vim
-	url = https://github.com/othree/yajs.vim.git
