@@ -35,7 +35,39 @@
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "fzf.vim"]
-	path = fzf.vim
-	url = https://github.com/junegunn/fzf.vim.git
-  ignore = dirty
+[submodule "neojs"]
+	path = neojs
+	url = https://github.com/vimlab/neojs.git
+[submodule "node-host"]
+	path = node-host
+	url = https://github.com/neovim/node-host.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = https://github.com/Shougo/unite.vim.git
+[submodule "neomake"]
+	path = neomake
+	url = https://github.com/neomake/neomake.git
+[submodule "deoplete.nvim"]
+	path = deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
+[submodule "deoplete-ternjs"]
+	path = deoplete-ternjs
+	url = https://github.com/carlitux/deoplete-ternjs.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "yajs.vim"]
+	path = yajs.vim
+	url = https://github.com/othree/yajs.vim.git
+[submodule "es.next.syntax.vim"]
+	path = es.next.syntax.vim
+	url = https://github.com/othree/es.next.syntax.vim.git
+[submodule "mdn.vim"]
+	path = mdn.vim
+	url = https://github.com/vimlab/mdn.vim.git
+[submodule "split-term.vim"]
+	path = split-term.vim
+	url = https://github.com/vimlab/split-term.vim.git
+[submodule "vim-node"]
+	path = vim-node
+	url = https://github.com/moll/vim-node.git
