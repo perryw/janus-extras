@@ -32,18 +32,6 @@
 [submodule "CSScomb-for-Vim"]
 	path = CSScomb-for-Vim
 	url = https://github.com/miripiruni/CSScomb-for-Vim.git
-[submodule "vimwiki"]
-	path = vimwiki
-	url = git@github.com:vimwiki/vimwiki.git
-[submodule "Superior-Haskell-Interaction-Mode-SHIM"]
-	path = Superior-Haskell-Interaction-Mode-SHIM
-	url = git@github.com:vim-scripts/Superior-Haskell-Interaction-Mode-SHIM.git
-[submodule "vimwiki-tasks"]
-	path = vimwiki-tasks
-	url = git@github.com:teranex/vimwiki-tasks.git
-[submodule "vim-cucumber"]
-	path = vim-cucumber
-	url = https://github.com/tpope/vim-cucumber.git
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
