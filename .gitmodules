@@ -44,9 +44,6 @@
 [submodule "unite.vim"]
 	path = unite.vim
 	url = https://github.com/Shougo/unite.vim.git
-[submodule "neomake"]
-	path = neomake
-	url = https://github.com/neomake/neomake.git
 [submodule "deoplete.nvim"]
 	path = deoplete.nvim
 	url = https://github.com/Shougo/deoplete.nvim.git
@@ -80,12 +77,21 @@
 [submodule "neosnippet.vim"]
 	path = neosnippet.vim
 	url = https://github.com/Shougo/neosnippet.vim.git
-[submodule "nvim-typescript"]
-	path = nvim-typescript
-	url = https://github.com/mhartington/nvim-typescript.git
 [submodule "vim-pug"]
 	path = vim-pug
 	url = https://github.com/digitaltoad/vim-pug.git
 [submodule "tern_for_vim"]
 	path = tern_for_vim
 	url = https://github.com/ternjs/tern_for_vim.git
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "ale"]
+	path = ale
+	url = https://github.com/w0rp/ale.git
+[submodule "neosnippet-snippets"]
+	path = neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets.git
+[submodule "vim-toml"]
+	path = vim-toml
+	url = https://github.com/cespare/vim-toml.git
