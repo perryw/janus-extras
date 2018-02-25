@@ -98,3 +98,6 @@
 [submodule "vim-bazel"]
 	path = vim-bazel
 	url = https://github.com/bazelbuild/vim-bazel.git
+[submodule "vim-maktaba"]
+	path = vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
