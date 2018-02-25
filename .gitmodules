@@ -95,3 +95,6 @@
 [submodule "vim-toml"]
 	path = vim-toml
 	url = https://github.com/cespare/vim-toml.git
+[submodule "vim-bazel"]
+	path = vim-bazel
+	url = https://github.com/bazelbuild/vim-bazel.git
