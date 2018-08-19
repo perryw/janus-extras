@@ -32,22 +32,72 @@
 [submodule "CSScomb-for-Vim"]
 	path = CSScomb-for-Vim
 	url = https://github.com/miripiruni/CSScomb-for-Vim.git
-[submodule "vimwiki"]
-	path = vimwiki
-	url = git@github.com:vimwiki/vimwiki.git
-[submodule "Superior-Haskell-Interaction-Mode-SHIM"]
-	path = Superior-Haskell-Interaction-Mode-SHIM
-	url = git@github.com:vim-scripts/Superior-Haskell-Interaction-Mode-SHIM.git
-[submodule "vimwiki-tasks"]
-	path = vimwiki-tasks
-	url = git@github.com:teranex/vimwiki-tasks.git
-[submodule "vim-cucumber"]
-	path = vim-cucumber
-	url = https://github.com/tpope/vim-cucumber.git
 [submodule "vim-airline"]
 	path = vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "fzf.vim"]
-	path = fzf.vim
-	url = https://github.com/junegunn/fzf.vim.git
-  ignore = dirty
+[submodule "neojs"]
+	path = neojs
+	url = https://github.com/vimlab/neojs.git
+[submodule "node-host"]
+	path = node-host
+	url = https://github.com/neovim/node-host.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = https://github.com/Shougo/unite.vim.git
+[submodule "deoplete.nvim"]
+	path = deoplete.nvim
+	url = https://github.com/Shougo/deoplete.nvim.git
+[submodule "deoplete-ternjs"]
+	path = deoplete-ternjs
+	url = https://github.com/carlitux/deoplete-ternjs.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "yajs.vim"]
+	path = yajs.vim
+	url = https://github.com/othree/yajs.vim.git
+[submodule "es.next.syntax.vim"]
+	path = es.next.syntax.vim
+	url = https://github.com/othree/es.next.syntax.vim.git
+[submodule "mdn.vim"]
+	path = mdn.vim
+	url = https://github.com/vimlab/mdn.vim.git
+[submodule "split-term.vim"]
+	path = split-term.vim
+	url = https://github.com/vimlab/split-term.vim.git
+[submodule "vim-node"]
+	path = vim-node
+	url = https://github.com/moll/vim-node.git
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "vim-snippets"]
+	path = vim-snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "neosnippet.vim"]
+	path = neosnippet.vim
+	url = https://github.com/Shougo/neosnippet.vim.git
+[submodule "vim-pug"]
+	path = vim-pug
+	url = https://github.com/digitaltoad/vim-pug.git
+[submodule "tern_for_vim"]
+	path = tern_for_vim
+	url = https://github.com/ternjs/tern_for_vim.git
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
+[submodule "ale"]
+	path = ale
+	url = https://github.com/w0rp/ale.git
+[submodule "neosnippet-snippets"]
+	path = neosnippet-snippets
+	url = https://github.com/Shougo/neosnippet-snippets.git
+[submodule "vim-toml"]
+	path = vim-toml
+	url = https://github.com/cespare/vim-toml.git
+[submodule "vim-bazel"]
+	path = vim-bazel
+	url = https://github.com/bazelbuild/vim-bazel.git
+[submodule "vim-maktaba"]
+	path = vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
